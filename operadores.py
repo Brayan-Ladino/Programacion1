@@ -10,3 +10,15 @@ ejemplo4 = 2*(4*(7+4*6)-3*32)
 print(ejemplo4)
 
 print(f"Ejemplo 4 = {ejemplo4}")
+
+#ejemplo 5
+rta = 2**3
+ejemplo5 = math.pow(2,3)
+print(f"Ejempolo 5 = {ejemplo5}")
+print(rta)
+
+#ejemplo 6
+
+ejemplo6 = math.sqrt(4)
+print(f"Ejempolo 6 = {ejemplo6}")
+
