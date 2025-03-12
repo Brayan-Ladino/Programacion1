@@ -19,3 +19,6 @@ print (type(estado))
 peso = float(input("eingrese peso: "))
 print(peso)
 print(type(peso))
+
+l = 15
+print(l)
