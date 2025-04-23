@@ -70,13 +70,16 @@ for i in range (p):
     materias.append(float(input("Ingre las notas: ")))
 print(materias)
 
+#Invertir lista
+lista1 = [1, 2, 3, 4, 5]
+lista1.reverse()
+print(lista1)
+#Ordenar una lista
+lista1.sort()#de menor a mayor
+print(lista1)
 
-
-
-
-
-
-
+lista1.sort(reverse=True)#de mayor a menor
+print(lista1)
 
 
 

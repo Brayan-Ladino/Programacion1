@@ -1,0 +1,40 @@
+{
+    "Presidente":
+    {
+        "Nombre": "Maria",
+        "Años de servicio": 18,
+        "Cargo": "Organizador del partido"
+    },
+    "Jugadores":[
+    {
+        "nombre": "Juan Pablo",
+        "años": 27,
+        "Posicion": "Libero"
+    },
+    {
+        "nombre": "Liberman",
+        "años": 40,
+        "Posicion": "Central"
+    },
+    {
+        "nombre": "Humberto",
+        "años": 35,
+        "Posicion": "Levantador"
+    }
+    ],
+    "Asistentes":[
+    {
+        "nombre": "Jose",
+        "Ip": 352,
+        "Sector": "Entrada"
+    },
+    {
+        "nombre": "Daniel",
+        "Ip": 201,
+        "Sector": "Cafeterias"
+    }
+    ],
+    "Nomble del equipo": "Big Boll",
+    "Paiz": "Colombia",
+    "Sitio": "Bogota"
+}
